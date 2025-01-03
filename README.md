@@ -14,10 +14,10 @@
 ![홈 페이지](assets/homepage_wireframe.png)
 ![상세 페이지](assets/detailpage_wireframe.png)
 
-### **사용한 언어 및 기술**
-- **HTML**: 웹 페이지의 구조를 설계
-- **CSS**: 디자인 및 스타일링
-- **JavaScript**: 페이지의 동적인 요소 추가 
+### **언어**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 ### **제작 페이지**
