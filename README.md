@@ -14,7 +14,7 @@
 ![홈 페이지](assets/homepage_wireframe.png)
 ![상세 페이지](assets/detailpage_wireframe.png)
 
-
+---
 ### **제작 페이지**
 1. **홈 페이지**
    - 메인 배너를 통한 빠른 상품 검색
