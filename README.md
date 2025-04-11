@@ -59,7 +59,6 @@ The site allows users to browse kits and Nike gear, search products, and select 
 
 - 👩‍💻 **Name**: GaEun Lee (이가은)  
 - 🎓 **Department**: AI Engineering, Sookmyung Women’s University  
-- ✏️ **Student ID**: 2315726  
 - 📁 Project Type: Front-End UI/UX + HTML/CSS/JS Practice
 
 ---
