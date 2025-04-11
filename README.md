@@ -1,39 +1,69 @@
-# Tottenham Hotspur Shop
+# ⚽ Tottenham Hotspur Shop Clone
 
-### **프로젝트 개요**
-토트넘 홋스퍼의 굿즈 웹사이트를 모방한 프로젝트입니다.  
-사용자가 키트, 나이키 제품을 검색하고 구매하며, 특정 선수 마킹까지 선택할 수 있는 사이트를 목표로 제작했습니다.
+A front-end web project that mimics the official Tottenham Hotspur online store.  
+The site allows users to browse kits and Nike gear, search products, and select player name customizations before checkout.
+
+---
+
+## 📝 Project Overview
+
+- 🧩 **Goal**: Recreate a simplified e-commerce experience of the Tottenham Hotspur official shop  
+- 🛍️ **Features**: Product categories, video content, player name marking option, cart interaction  
+- 📆 **Timeline**: Created as a **midterm project** for a 2024 Web Programming course
 
 ---
 
-### **기획안**
-- [웹사이트 기획안 보기](WP1_2315726_이가은_기획안.pdf.pdf)
+## 📄 Project Plan (기획안)
+
+- [📎 View PDF Proposal (WP1_2315726_이가은_기획안.pdf)](WP1_2315726_이가은_기획안.pdf.pdf)
 
 ---
-### **와이어프레임**
-![홈 페이지](assets/homepage_wireframe.png)
-![상세 페이지](assets/detailpage_wireframe.png)
 
-### **언어**
+## 🖼️ Wireframes
+
+| Homepage | Product Detail |
+|----------|----------------|
+| ![홈](./assets/homepage_wireframe.png) | ![상세](./assets/detailpage_wireframe.png) |
+
+---
+
+## 🛠️ Tech Stack
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-### **제작 페이지**
-1. **홈 페이지**
-   - 메인 배너를 통한 빠른 상품 검색
-   - 상품 카테고리 및 비디오 추가
-2. **상품 상세 페이지**
-   - 상품 정보 및 선수 마킹 옵션
-   - Add to Cart 버튼
+
+## 🖥️ Pages Developed
+
+### 1. Homepage
+- Featured banner for quick access to new products
+- Product category sections
+- Embedded video for visual appeal
+
+### 2. Product Detail Page
+- Detailed item information
+- Player marking selection
+- `Add to Cart` functionality (static front-end)
 
 ---
 
-### **벤치마킹 사이트**
-- [Tottenham Hotspur Shop](https://shop.tottenhamhotspur.com/)
+## 📌 Benchmark Reference
+
+- [Tottenham Hotspur Official Shop](https://shop.tottenhamhotspur.com/)
 
 ---
 
-### **제작 기간**
-- 2024년 중간과제 제출용
+## 🙋‍♀️ About the Creator
+
+- 👩‍💻 **Name**: GaEun Lee (이가은)  
+- 🎓 **Department**: AI Engineering, Sookmyung Women’s University  
+- ✏️ **Student ID**: 2315726  
+- 📁 Project Type: Front-End UI/UX + HTML/CSS/JS Practice
+
+---
+
+## 📄 License
+
+MIT License © 2024 GaEun Lee (2eueu_)
