@@ -1,5 +1,7 @@
 # ⚽ Tottenham Hotspur Shop Clone
 
+> 🛒 **[Live Demo](https://2eueu.github.io/spurs-shop-clone/)**
+
 A front-end web project that mimics the official Tottenham Hotspur online store.  
 The site allows users to browse kits and Nike gear, search products, and select player name customizations before checkout.
 
@@ -10,6 +12,13 @@ The site allows users to browse kits and Nike gear, search products, and select 
 - 🧩 **Goal**: Recreate a simplified e-commerce experience of the Tottenham Hotspur official shop  
 - 🛍️ **Features**: Product categories, video content, player name marking option, cart interaction  
 - 📆 **Timeline**: Created as a **midterm project** for a 2024 Web Programming course
+
+---
+
+## 🔗 Live Site
+
+You can explore the full website here:  
+👉 **[https://2eueu.github.io/spurs-shop-clone/](https://2eueu.github.io/spurs-shop-clone/)**
 
 ---
 
@@ -59,7 +68,8 @@ The site allows users to browse kits and Nike gear, search products, and select 
 
 - 👩‍💻 **Name**: GaEun Lee (이가은)  
 - 🎓 **Department**: AI Engineering, Sookmyung Women’s University  
-- 📁 Project Type: Front-End UI/UX + HTML/CSS/JS Practice
+- 📁 Project Type: Front-End UI/UX + HTML/CSS/JS Practice  
+- 🔗 GitHub: [@2eueu](https://github.com/2eueu)
 
 ---
 
